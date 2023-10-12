@@ -1,2 +1,2 @@
-readme.md prueba
-
+#!/bim/bash
+readme prueba
