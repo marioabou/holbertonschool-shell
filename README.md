@@ -1,2 +1,2 @@
 #!/bin/bash
-readme prueba
+scripts
